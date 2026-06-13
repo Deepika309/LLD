@@ -1,0 +1,7 @@
+POST http://localhost:8080/claims/evaluate
+Content-Type: application/json
+
+{
+  "policyId": "P123",
+  "claimAmount": 30000
+}
