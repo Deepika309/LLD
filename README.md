@@ -1,1 +1,1 @@
-Adding self-made projects to learn better on designs and code pratices in Java.
+Adding self-made projects to be better on designs and code pratices in Java.
